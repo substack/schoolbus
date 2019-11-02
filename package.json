@@ -16,7 +16,7 @@
     },
     "devDependencies" : {
         "domready" : "~0.2.11",
-        "ecstatic" : "~0.1.6",
+        "ecstatic" : "~4.1.2",
         "browserify" : "~1.12.2"
     },
     "repository" : {
